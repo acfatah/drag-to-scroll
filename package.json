@@ -1,0 +1,23 @@
+{
+  "name": "@acfatah/drag-to-scroll",
+  "version": "1.0.0",
+  "description": "Scroll an element by mouse dragging",
+  "main": "index.js",
+  "scripts": {
+    "demo": "bin/demo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acfatah/drag-to-scroll.git"
+  },
+  "keywords": [
+    "drag to scroll",
+    "drag scrolling"
+  ],
+  "author": "Achmad F. Ibrahim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acfatah/drag-to-scroll/issues"
+  },
+  "homepage": "https://github.com/acfatah/drag-to-scroll#readme"
+}

@@ -1,0 +1,4 @@
+#! /usr/bin/env bash
+
+echo Visit 'localhost:3000/demo/index.html' to view the demo.
+docker run --rm -it -v $PWD:/usr/share/nginx/html -p 3000:80 nginx:alpine
